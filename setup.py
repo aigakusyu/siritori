@@ -6,9 +6,6 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="sample_command",
     version="0.1.0",
-    author="cm-hirano-shigetoshi",
-    author_email="hirano.shigetoshi@classmethod.jp",
-    description="You can receive the message 'Hello!!!'",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/aigakusyu/siritori",
