@@ -11,7 +11,7 @@ setuptools.setup(
     description="You can receive the message 'Hello!!!'",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/cm-hirano-shigetoshi/python_sample_command",
+    url="https://github.com/aigakusyu/siritori",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
