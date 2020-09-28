@@ -2,7 +2,7 @@ import pandas as pd
 import urllib.request
 from io import StringIO
 
-url = ""
+url = "https://raw.githubusercontent.com/aigakusyu/siritori/master/sample_command/s_hyou1.csv"
 
 #csvを読み込む関数
 def read_csv(url):
